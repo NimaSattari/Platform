@@ -1404,6 +1404,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1648403766}
     m_Modifications:
+    - target: {fileID: 1855463550903954925, guid: 2acec96fbb320ae418cc3ba3cbc4e6da,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8009582467863203484, guid: 2acec96fbb320ae418cc3ba3cbc4e6da,
         type: 3}
       propertyPath: T1
@@ -1473,6 +1478,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: MoveingPlatform
+      objectReference: {fileID: 0}
+    - target: {fileID: 8545631514124553229, guid: 2acec96fbb320ae418cc3ba3cbc4e6da,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2acec96fbb320ae418cc3ba3cbc4e6da, type: 3}
